@@ -1,15 +1,14 @@
 {
-    "name": "mold-template",
-    "version":"1.0.0",
+    "name": "hekyll-mold",
+    "version": "1.0.1",
     "main": "mold.node.js",
-    "description": "Templating system",
+    "description": "Jekyll's templating system ported to NodeJS",
     "licenses": [{"type": "MIT",
                   "url": "http://marijnhaverbeke.nl/mold/LICENSE"}],
     "bugs": "https://github.com/marijnh/mold/issues",
     "scripts": {"test": "node ./test.js"},
-    "keywords": ["templating", "client-side"],
+    "keywords": ["templating", "Jekyll"],
     "homepage": "http://marijnhaverbeke.nl/mold",
-    "author": "Marijn Haverbeke <marijnh@gmail.com>",
-    "repositories": [{"type": "git",
-                      "url": "https://github.com/marijnh/mold.git"}]
+    "author": "Arthur Pachachura <pachachura.arthur@gmail.com>",
+    "repository": {"type": "git", "url": "https://github.com/smo-key/hekyll-mold.git"}
 }
