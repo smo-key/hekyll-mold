@@ -5,10 +5,10 @@
     "description": "Jekyll's templating system ported to NodeJS",
     "licenses": [{"type": "MIT",
                   "url": "http://marijnhaverbeke.nl/mold/LICENSE"}],
-    "bugs": "https://github.com/marijnh/mold/issues",
+    "bugs": "https://github.com/smo-key/hekyll-mold/issues",
     "scripts": {"test": "node ./test.js"},
     "keywords": ["templating", "Jekyll"],
-    "homepage": "http://marijnhaverbeke.nl/mold",
+    "homepage": "https://github.com/smo-key/hekyll-mold",
     "author": "Arthur Pachachura <pachachura.arthur@gmail.com>",
     "repository": {"type": "git", "url": "https://github.com/smo-key/hekyll-mold.git"}
 }
