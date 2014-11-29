@@ -1,7 +1,7 @@
 {
     "name": "hekyll-mold",
     "version": "1.0.1",
-    "main": "mold.node.js",
+    "main": "mold.js",
     "description": "Jekyll's templating system ported to NodeJS",
     "licenses": [{"type": "MIT",
                   "url": "http://marijnhaverbeke.nl/mold/LICENSE"}],
